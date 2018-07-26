@@ -14,8 +14,10 @@
 10. run the maxclique app:
 >mpiexec -genv MPIR_CVAR_CH3_EAGER_MAX_MSG_SIZE=134217728 -n 3 -f /home/guimuguo/project/GMiner-master/machines.cfg /home/guimuguo/project/GMiner-master/release/mc
 
-***Then I got the max-clique size is 10 which is not correct!***
+**Then I got the max-clique size is 10 which is not correct!**
+
 The put, partition and execution report were attached.
+
 ----
 ## For the Normal Format:
 Then I think it's may caused by the different data format between my youtube data and the normal_sample.adj
