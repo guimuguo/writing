@@ -16,7 +16,7 @@
 
 **Then I got the max-clique size is 10 which is not correct!**
 
-The put, partition and execution report were attached.
+The put, partition and execution reports were attached.
 
 ----
 ## For the Normal Format:
